@@ -1,11 +1,11 @@
 body {
-    background-color: #A9A9A9;
+    background-color: #9fd9ff;
     font-family: 'Arial', sans-serif;
 }
 
 .container {
-    background-color: #0000;;
-    border: 1px solid #0000;
+    background-color: #f7fbc3f4;;
+    border: 1px solid #9fd9ff;
     ;
     padding: 40px;
     border-radius: 8px;
@@ -27,7 +27,7 @@ body {
 .name-text {
     font-size: 32px;
     font-weight: bold;
-    color: #0000ff;
+    color: #9fd9ff;
 }
 
 .intro-text {
@@ -56,6 +56,6 @@ body {
 
 .contact-info {
     font-size: 18px;
-    color: #333;
+    color: #f4527e;
     margin-top: 30px;
 }
